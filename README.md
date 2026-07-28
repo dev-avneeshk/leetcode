@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dev-avneeshk/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/dev-avneeshk/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dev-avneeshk/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/dev-avneeshk/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-avneeshk/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-avneeshk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/dev-avneeshk/leetcode/tree/master/0217-contains-duplicate) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dev-avneeshk/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dev-avneeshk/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/dev-avneeshk/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/dev-avneeshk/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dev-avneeshk/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dev-avneeshk/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dev-avneeshk/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dev-avneeshk/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dev-avneeshk/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/dev-avneeshk/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/dev-avneeshk/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-avneeshk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
