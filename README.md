@@ -106,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-avneeshk/leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/dev-avneeshk/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
